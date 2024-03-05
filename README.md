@@ -3,4 +3,4 @@
 
 ### The website contains only the home page which is the main resume section.
 
-The website is hosted live at [Abhishek Amgain Resume] {https://amgaina.github.io/Abhishek-Resume}
+The website is hosted live at [Abhishek Amgain Resume](https://amgaina.github.io/Abhishek-Resume)
